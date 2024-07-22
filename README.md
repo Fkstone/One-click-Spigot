@@ -18,7 +18,7 @@ This script automates the setup of a Minecraft Spigot server on a Linux machine.
 1. **Download the script:**
 
    ```sh
-   wget https://raw.githubusercontent.com/yourusername/yourrepository/main/setup_minecraft_server.sh
+   wget https://raw.githubusercontent.com/Fkstone/One-click-Spigot/main/setup_minecraft_server.sh
    ```
 
 2. **Make the script executable:**
